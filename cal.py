@@ -1,6 +1,8 @@
-def add():
+def add(a,b):
     return a+b
-def sub():
+def sub(a,b):
     retutn a-b
-def mul():
+def mul(a,b):
     return a*b
+def log(a):
+    return a
